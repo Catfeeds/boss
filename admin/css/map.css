@@ -1,0 +1,30 @@
+.mapbutton {
+	margin:1rem;
+	padding:0 1rem;
+	text-align:center;
+	float:left;
+	height:3rem;
+	min-width:3rem;
+	line-height:3rem;
+	border:1px solid #666;
+	border-radius:0.5rem;
+	color:#66f;
+	cursor:pointer;
+}
+
+.highlightbutton {
+	background:#699;
+}
+
+.mapbutton:hover {
+	background:#366;
+}
+
+.wait {
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	position:absolute;
+	background:url(../images/wait1.gif) center no-repeat;
+}

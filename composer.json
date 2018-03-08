@@ -1,0 +1,24 @@
+{
+	"repositories": [
+		{
+			"packagist": false
+		},
+		{
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+	],
+	"require":{
+		"jpush/jpush":"v3.5.*",
+		"PHPOffice/PHPExcel":"1.8.*",
+		"php-activerecord/php-activerecord":"*",
+		"laravel/laravel":"*",
+		"yiisoft/yii2": "2.0.11.2",
+		"nullref/yii2-sb-admin-2": "*",
+		"kartik-v/yii2-slider": "dev-master",
+		"sskaje/mqtt": "dev-master"
+	},
+	"require-dev": {
+		"yiisoft/yii2-gii": "^2.0"
+	}
+}

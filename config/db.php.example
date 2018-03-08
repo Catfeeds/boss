@@ -1,0 +1,10 @@
+<?php 
+return [
+		'class' => 'yii\db\Connection',
+		'dsn' => 'mysql:host=192.168.1.233;dbname=zlt',
+		'username' => 'zltuser',
+		'password' => 'm75WezYsQQ33FdXP',
+		'charset' => 'utf8',
+		'tablePrefix' => 'zlt_',
+];
+?>
